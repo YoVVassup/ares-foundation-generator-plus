@@ -5,7 +5,7 @@
 [![NumPy](https://img.shields.io/badge/numpy-1.24+-orange.svg)](https://numpy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-🇬🇧 [English](README.en.md) | 🇷🇺 [Русский](README.ru.md) | 🇨🇳 [简体中文](README.zh-CN.md) | 🇹🇼 [繁體中文](README.zh-TW.md)
+🇬🇧 [English](README.md) | 🇷🇺 [Русский](README.ru.md) | 🇨🇳 [简体中文](README.zh-CN.md) | 🇹🇼 [繁體中文](README.zh-TW.md)
 
 **Ares Foundation Generator +** — это десктопное приложение для создания и редактирования фундаментов зданий для игровых уровней (например, ARES). Поддерживает ортогональную и изометрическую проекции, наложение шаблона, отмену/повтор действий, экспорт в INI и изображения.
 

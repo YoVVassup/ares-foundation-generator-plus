@@ -5,7 +5,7 @@
 [![NumPy](https://img.shields.io/badge/numpy-1.24+-orange.svg)](https://numpy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-🇬🇧 [English](README.en.md) | 🇷🇺 [Русский](README.ru.md) | 🇨🇳 [简体中文](README.zh-CN.md) | 🇹🇼 [繁體中文](README.zh-TW.md)
+🇬🇧 [English](README.md) | 🇷🇺 [Русский](README.ru.md) | 🇨🇳 [简体中文](README.zh-CN.md) | 🇹🇼 [繁體中文](README.zh-TW.md)
 
 **Ares Foundation Generator +** 是一款桌面应用程序，用于创建和编辑游戏关卡（例如 ARES）的建筑地基。它提供正交和等轴测投影、模板叠加、撤销/重做以及导出为 INI/图像格式。
 

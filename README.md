@@ -5,7 +5,7 @@
 [![NumPy](https://img.shields.io/badge/numpy-1.24+-orange.svg)](https://numpy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-🇬🇧 [English](README.en.md) | 🇷🇺 [Русский](README.ru.md) | 🇨🇳 [简体中文](README.zh-CN.md) | 🇹🇼 [繁體中文](README.zh-TW.md)
+🇬🇧 [English](README.md) | 🇷🇺 [Русский](README.ru.md) | 🇨🇳 [简体中文](README.zh-CN.md) | 🇹🇼 [繁體中文](README.zh-TW.md)
 
 **Ares Foundation Generator +** is a desktop application for creating and editing building foundations for game levels (e.g., ARES). It provides both orthogonal and isometric projections, template overlay, undo/redo, and export to INI/image formats.
 
